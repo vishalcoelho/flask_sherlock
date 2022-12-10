@@ -6,6 +6,13 @@
     "directors": ["Harold Ramis"],
     "stars": ["Bill Murray", "Andie MacDowell", "Chris Elliott", "Punxsutawney Phil"]
 }, {
+    "title": "The Ghost Writer",
+    "genre": ["crime", "drama", "mystery"],
+    "year": 2010,
+    "rating": 7.2,
+    "director": ["Roman Polański"],
+    "stars": ["Ewan McGregor", "Pierce Brosnan", "Olivia Williams"]
+}, {
     "title": "Kingpin",
     "genre": ["comedy", "sport"],
     "year": 1996,
